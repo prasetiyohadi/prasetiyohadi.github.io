@@ -1,0 +1,1 @@
+- [Medium writing style guide](user_writing_style.md) — First-person, code-heavy, hands-on lab journal format for technical blog posts
